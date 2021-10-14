@@ -1,9 +1,9 @@
 Pod::Spec.new do |spec|
   spec.name = "SimpleNativeV2AppsflyerIOSSDK"
-  spec.version="0.1.1"
+  spec.version="0.1.2"
   spec.summary= "Simple SDK for include appsflyer sdk"
   spec.description= <<-DESC
-  Simple SDK for include appsflyer sdk
+  Simple SDK for include appsflyer sdk , please includ the core sdk more
   DESC
   spec.homepage= 'https://github.com/bepic-games/SimpleNativeV2AppsflyerIOSSDK'
   spec.license= { :type => 'MIT', :file => 'LICENSE' }

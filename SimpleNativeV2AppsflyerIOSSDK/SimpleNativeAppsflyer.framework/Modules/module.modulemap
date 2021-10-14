@@ -1,0 +1,6 @@
+framework module SimpleNativeAppsflyer {
+  umbrella header "SimpleNativeAppsflyer.h"
+
+  export *
+  module * { export * }
+}

@@ -1,7 +1,6 @@
-
 Pod::Spec.new do |spec|
   spec.name = "SimpleNativeV2AppsflyerIOSSDK"
-  spec.version="0.1.0"
+  spec.version="0.1.1"
   spec.summary= "Simple SDK for include appsflyer sdk"
   spec.description= <<-DESC
   Simple SDK for include appsflyer sdk
@@ -10,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.license= { :type => 'MIT', :file => 'LICENSE' }
   spec.author = { "yilang" => "yilang@bepic.cc" }
   spec.ios.deployment_target = "10.0"
-  spec.source = { :git => "https://github.com/bepic-games/SimpleNativeV2AppsflyerIOSSDK.git", :tag => "#{spec.version="0.1.0"
+  spec.source = { :git => "https://github.com/bepic-games/SimpleNativeV2AppsflyerIOSSDK.git", :tag => "#{spec.version}" }
   spec.source_files= 'SimpleNativeV2AppsflyerIOSSDK/*.{framework}/Headers/*.h'
   spec.vendored_frameworks = 'SimpleNativeV2AppsflyerIOSSDK/*.{framework}'
   spec.public_header_files = 'SimpleNativeV2AppsflyerIOSSDK/*.{framework}/Headers/*.h'

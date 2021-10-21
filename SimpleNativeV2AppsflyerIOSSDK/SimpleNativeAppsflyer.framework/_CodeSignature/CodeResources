@@ -19,11 +19,11 @@
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/SimpleNativeBase</key>
 		<data>
-		bBhCQlXJHdUsTTbMStxk3tQXy7E=
+		rM8p5YzCwSe0BHMc8QC1sU4xXHE=
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		iYkUIkhcYAVx9cphQkJ2wPluWSM=
+		24KzQ5m3XWNArGESmOjmnJ0OzDI=
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -31,7 +31,7 @@
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		uUniP2C5HTv6VuEa0bP/EJ9trEk=
+		X+BofPFS6PS5d0HarQVRxbdY4lo=
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -39,7 +39,7 @@
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		56cL6mMXZcareJmAxsx+xR4Zl3o=
+		+pyVZNq1xFxFJEfH7KgRPJDRj7w=
 		</data>
 		<key>Headers/SimpleNativeAppsflyer.h</key>
 		<data>
@@ -84,22 +84,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bBhCQlXJHdUsTTbMStxk3tQXy7E=
+			rM8p5YzCwSe0BHMc8QC1sU4xXHE=
 			</data>
 			<key>hash2</key>
 			<data>
-			kK4RaZkBhpLpWhMbcubZPnisUJDT4miqokSrMjzVWMQ=
+			JxkPMHntflDrOzGmz4GqYuGZ8KVlJuMLJjUpbNgbllo=
 			</data>
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iYkUIkhcYAVx9cphQkJ2wPluWSM=
+			24KzQ5m3XWNArGESmOjmnJ0OzDI=
 			</data>
 			<key>hash2</key>
 			<data>
-			j1bmyc9PMwlhmdOT9FFye0slXhX3Y2iAef7Q2FtSTX0=
+			NLPZrcc5XjDoeRt5lMcCTduzwRfdOaLjd68QCnhEi9g=
 			</data>
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeRequirements</key>
@@ -117,11 +117,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uUniP2C5HTv6VuEa0bP/EJ9trEk=
+			X+BofPFS6PS5d0HarQVRxbdY4lo=
 			</data>
 			<key>hash2</key>
 			<data>
-			TiDmo6GwnwEvKcixobY49fLs0GU+S+rLZ6gLMdiTAcw=
+			8uMUKaXI3nqOOuOIob1O6nw7JZt+PcZ+cdKUu5JAvDI=
 			</data>
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeResources</key>
@@ -139,11 +139,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			56cL6mMXZcareJmAxsx+xR4Zl3o=
+			+pyVZNq1xFxFJEfH7KgRPJDRj7w=
 			</data>
 			<key>hash2</key>
 			<data>
-			2u4o+skf2tngT6YX1soecfPZ9CidFPt3Zpjs/Pq6OhU=
+			QUB8dLk//74bS6PB4ocYn3bXJ+pAPpTUivYmfPIO5PE=
 			</data>
 		</dict>
 		<key>Headers/SimpleNativeAppsflyer.h</key>

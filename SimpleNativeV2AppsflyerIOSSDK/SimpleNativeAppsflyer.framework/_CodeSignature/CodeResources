@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/SimpleNativeBase.framework/Info.plist</key>
 		<data>
-		0uqxp06accs11E3Z4/i47qvmb7A=
+		bS+6LZiGKJ27cobdwHLebysNXGo=
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/SAMKeychain.bundle/en.lproj/SAMKeychain.strings</key>
 		<dict>
@@ -19,11 +19,11 @@
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/SimpleNativeBase</key>
 		<data>
-		hA1evhq4vNckO/SSTevsGKAQbsk=
+		heS98c1k0CqEdIits34mh1Bf0JI=
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		LscGm/cgJhjpf1ntziGjwwfJ1eU=
+		ibDfhLuifHKuMh4Mh+mGw/qruNg=
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -31,15 +31,15 @@
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		ZO+uidXf7vmuPdGA5bwe1mPW6JU=
+		CnwSpUY8PfNC8yM98SjaeGTsCAs=
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeResources</key>
 		<data>
-		9ejreymhu82aAqnop0IcgVqewek=
+		I0qWot6qTGMOVS8L5lD42ZTkVsI=
 		</data>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		qfK7spBMs1ufuY4sTECrMeoM0VU=
+		6FHz08WFwX7mMpmEEv6ImAmDX50=
 		</data>
 		<key>Headers/SimpleNativeAppsflyer.h</key>
 		<data>
@@ -47,7 +47,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RIu5ISIJrT+bdUcyazOI1ZaEFXg=
+		HFPsVdu3j9E1JFy5YwarrBshGHQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -60,11 +60,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0uqxp06accs11E3Z4/i47qvmb7A=
+			bS+6LZiGKJ27cobdwHLebysNXGo=
 			</data>
 			<key>hash2</key>
 			<data>
-			8VoyoDUcx9XU5T5G560oGwu+1GTE8VkRtV5O7t5a5DU=
+			PAfiPDvr3AAj8rHnOXbY0FxMrS0/Yh9gvgq2i5W5UYs=
 			</data>
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/SAMKeychain.bundle/en.lproj/SAMKeychain.strings</key>
@@ -84,22 +84,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hA1evhq4vNckO/SSTevsGKAQbsk=
+			heS98c1k0CqEdIits34mh1Bf0JI=
 			</data>
 			<key>hash2</key>
 			<data>
-			c5+uB64G9e2uqc8ytJt0alBhq/kD3ZKTtBT2i/bWST0=
+			2wGUqD9ZmvtD1+ZtpoEKuv06MDskIICpbHUXu4qr4D8=
 			</data>
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LscGm/cgJhjpf1ntziGjwwfJ1eU=
+			ibDfhLuifHKuMh4Mh+mGw/qruNg=
 			</data>
 			<key>hash2</key>
 			<data>
-			G2aXtHfxTGiHc7EwbtKFERZFr2JDCKVTwtMBu9j2FvQ=
+			SqKmlXjTqTk/WtQx8InY7h1JIHKM/DFV/mozUZkBio8=
 			</data>
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeRequirements</key>
@@ -117,33 +117,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZO+uidXf7vmuPdGA5bwe1mPW6JU=
+			CnwSpUY8PfNC8yM98SjaeGTsCAs=
 			</data>
 			<key>hash2</key>
 			<data>
-			n418+4mwkuETqdqBeqb7AypQdhgn0VUPK7MuCFitIj4=
+			vixwvQJjuLU4Nmx2L8TDeoQFQMUIGkh348H7X/SmcBc=
 			</data>
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9ejreymhu82aAqnop0IcgVqewek=
+			I0qWot6qTGMOVS8L5lD42ZTkVsI=
 			</data>
 			<key>hash2</key>
 			<data>
-			n9+aPnWe9TaqOuL8r48FFn7U9jBlgmUI8lyp2KMA5zM=
+			DlvllQvlzdUAOZxa1wDwTBv82m4IRvxxjfAuPOztYO8=
 			</data>
 		</dict>
 		<key>Frameworks/SimpleNativeBase.framework/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qfK7spBMs1ufuY4sTECrMeoM0VU=
+			6FHz08WFwX7mMpmEEv6ImAmDX50=
 			</data>
 			<key>hash2</key>
 			<data>
-			pqaTxj6Nmvgy6+0Pq3UdCHD39KVJdTaCsg+W6d8KR6Y=
+			UEFQ+gFLaKMGqZNUCZUrx9sLhf/h+x/38zLAdeCJtU4=
 			</data>
 		</dict>
 		<key>Headers/SimpleNativeAppsflyer.h</key>

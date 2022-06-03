@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "SimpleNativeV2AppsflyerIOSSDK"
-  spec.version="0.3.20"
+  spec.version="0.3.21"
   spec.summary= "Simple SDK for include appsflyer sdk"
   spec.description= <<-DESC
   Simple SDK for include appsflyer sdk , please includ the core sdk more
